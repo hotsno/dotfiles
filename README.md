@@ -9,7 +9,7 @@ Super+D : Open Discord
 
 Super+E : Open file manager (Thunar)
 
-Super+F : Fullscren toggle
+Super+F : Fullscreen toggle
 
 Super+G : Reset gaps
 
