@@ -27,7 +27,7 @@ Super+M : Mute volume
 
 Super+N : 
 
-Super+O : 
+Super+O : Start OBS
 
 Super+P : Start picom
 
@@ -79,7 +79,7 @@ Super+Shift+M :
 
 Super+Shift+N : 
 
-Super+Shift+O : 
+Super+Shift+O : Close OBS
 
 Super+Shift+P : Kill picom
 
