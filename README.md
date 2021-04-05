@@ -23,7 +23,7 @@ Super+K : Focus up
 
 Super+L : Focus right
 
-Super+M : 
+Super+M : Mute volume
 
 Super+N : 
 
@@ -31,7 +31,7 @@ Super+O :
 
 Super+P : Start picom
 
-Super+Q : 
+Super+Q : Kill focused app
 
 Super+R : 
 
@@ -102,3 +102,37 @@ Super+Shift+X :
 Super+Shift+Y : 
 
 Super+Shift+Z : 
+
+Super+Enter : Open terminal
+
+Super+Esc : Logout
+
+Super+Shift+Esc : Hibernate
+
+PrintScreen : Save full screenshot and copy to clipboard
+
+Ctrl+PrintScreen : Screenshot (Flameshot GUI)
+
+Alt+Space : Rofi (search)
+
+Super+Ctrl+Right : Next workspace
+
+Super+Ctrl+Left : Next workspace
+
+Super+Shift+Slash : kill (?)
+
+Super+Backslash : Back and forth between 2 recent workspaces
+
+Super+[Number] : Switch to workspace [Number]
+
+Super+Shift+[Number] : Move active window to workspace [Number]
+
+Mod+F1 : Restart i3
+
+Mod+Arrow Keys : Move focus
+
+Mod+Shift+Arrow Keys : Resize windows
+
+Mod+PageDown : Volume 10% down
+
+Mod+PageUp : Volume 10% up
