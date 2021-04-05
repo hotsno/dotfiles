@@ -3,7 +3,7 @@ Super+A : Open anime folder
 
 Super+B : Open Brave
 
-Super+C : Open i3 config
+Super+C : Open VSCode
 
 Super+D : Open Discord
 
@@ -37,7 +37,7 @@ Super+R :
 
 Super+S : Sticky toggle
 
-Super+T : 
+Super+T : Open Teams
 
 Super+U : 
 
@@ -55,7 +55,7 @@ Super+Shift+A :
 
 Super+Shift+B : 
 
-Super+Shift+C : 
+Super+Shift+C : Open i3 config in VSCode
 
 Super+Shift+D : 
 
