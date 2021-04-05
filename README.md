@@ -50,3 +50,55 @@ Super+X :
 Super+Y : 
 
 Super+Z : Restart Polybar
+
+Super+Shift+A : 
+
+Super+Shift+B : 
+
+Super+Shift+C : 
+
+Super+Shift+D : 
+
+Super+Shift+E : 
+
+Super+Shift+F : 
+
+Super+Shift+G : Remove gaps
+
+Super+Shift+H : Move left 30
+
+Super+Shift+I : 
+
+Super+Shift+J : Move down 30
+
+Super+Shift+K : Move up 30
+
+Super+Shift+L : Move right 30
+
+Super+Shift+M : 
+
+Super+Shift+N : 
+
+Super+Shift+O : 
+
+Super+Shift+P : Kill picom
+
+Super+Shift+Q : 
+
+Super+Shift+R : 
+
+Super+Shift+S : Split toggle
+
+Super+Shift+T : 
+
+Super+Shift+U : 
+
+Super+Shift+V : 
+
+Super+Shift+W : 
+
+Super+Shift+X : 
+
+Super+Shift+Y : 
+
+Super+Shift+Z : 
